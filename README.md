@@ -3,8 +3,8 @@
 
 I'm a systems development student at Etec Basilides De Godoy
 
-[My personal website →](www.kauavitorio.com)<br/>
-[More about me &rarr;](www.kauavitorio.com)<br/>
+[My personal website →](www.kauavitorio.com) - In development<br/>
+[More about me &rarr;](www.kauavitorio.com) - In development<br/>
 [My Instagram profile &rarr;](https://www.instagram.com/ka_vitorio/)
 
 <b>Mini projects</b> <br/>
