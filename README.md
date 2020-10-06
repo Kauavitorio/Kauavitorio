@@ -33,10 +33,10 @@ I'm a systems development student at Etec Basilides De Godoy
 <br/>
 ----
 <br/>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
-<code><img height="25" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
-<code><img height="25" src="https://dicasdejava.com.br/images/logo-java.png"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
+<code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
+<code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 <!--
 **Kauavitorio/Kauavitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
