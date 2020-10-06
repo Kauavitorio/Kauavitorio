@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **Kauavitorio/Kauavitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Kauã Vitório.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a systems development student at Etec Basilides De Godoy
+
+[My personal website →](www.kauavitorio.com)<br/>
+[More about me &rarr;](www.kauavitorio.com)<br/>
+[My Instagram profile &rarr;](https://www.instagram.com/ka_vitorio/)
+
+<b>Mini projects</b> <br/>
+[EXTRA](https://github.com/Kauavitorio/Projeto-Extra)<b> • </b>Extra supermarket<br/>
+[BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
