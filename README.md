@@ -30,7 +30,13 @@ I'm a systems development student at Etec Basilides De Godoy
 <br/>
 [EXTRA](https://github.com/Kauavitorio/Projeto-Extra)<b> • </b>Extra supermarket<br/>
 [BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
-
+<br/>
+----
+<br/>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
+<code><img height="20" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
+<code><img height="20" src="https://dicasdejava.com.br/images/logo-java.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 <!--
 **Kauavitorio/Kauavitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
