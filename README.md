@@ -23,11 +23,11 @@ I'm a systems development student at Etec Basilides De Godoy
 
 <b>[My personal website →](www.kauavitorio.com)</b> - In development🔨<br/>
 <b>[More about me &rarr;](www.kauavitorio.com)</b> - In development🔨<br/>
-<b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b>
-<br/>
+<b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b><br/>
+
 ---- 
 <br/>
-<b>Mini projects</b> <br/>
+### Mini projects
 [EXTRA](https://github.com/Kauavitorio/Projeto-Extra)<b> • </b>Extra supermarket<br/>
 [BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
 
