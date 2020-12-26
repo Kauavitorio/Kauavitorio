@@ -21,8 +21,8 @@
 
 I'm a systems development student at Etec Basilides De Godoy
 
-<b>[My personal website →](https://kauavitorio.web.app)</b> - [Kauã Vitório - Portifolio](https://kauavitorio.web.app)<br/>
-<b>[More about me &rarr;](https://kauavitorio.web.app/MaisSobreKaua)</b> - In development🔨<br/>
+<b>[My personal website →](https://www.kauavitorio.com)</b>  [Go to WebSite](https://www.kauavitorio.com)<br/>
+<b>[More about me &rarr;](https://www.kauavitorio.com/MaisSobreKaua)</b>  [Go to WebSite](https://www.kauavitorio.com/MaisSobreKaua)<br/>
 <b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b><br/>
 
 ---- 
