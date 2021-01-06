@@ -18,18 +18,16 @@
 
 ---- 
 
-
 I'm a systems development student at Etec Basilides De Godoy
 
-<b>[More about me &rarr;](https://www.kauavitorio.com/MaisSobreKaua)</b>
-<b>[My personal website](https://www.kauavitorio.com)</b>
+<b>[More about me &rarr;](https://www.kauavitorio.com/MaisSobreKaua)</b><br/>
+<b>[My personal website](https://www.kauavitorio.com)</b><br/>
 <b>[My Twitter profile &rarr;](https://twitter.com/kauavitorioofc)</b><br/>
-
 ---- 
 <b>Mini projects</b>
 <br/>
 [System Strength](https://github.com/System-Strength)<b> • </b>Etec Project<br/>
-[EXTRA](https://github.com/Kauavitorio/Projeto-Extra)<b> • </b>Extra supermarket<br/>
+[Coffee For Code](https://github.com/System-Strength/Mobile_CoffeeForCode)<b> • </b>[Learn more](https://www.kauavitorio/aviso)<br/>
 [BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
 <br/>
 ----
