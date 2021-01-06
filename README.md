@@ -27,7 +27,7 @@ I'm a systems development student at Etec Basilides De Godoy
 <b>Mini projects</b>
 <br/>
 [System Strength](https://github.com/System-Strength)<b> • </b>Etec Project<br/>
-[Coffee For Code](https://github.com/System-Strength/Mobile_CoffeeForCode)<b> • </b>[Learn more](https://www.kauavitorio/aviso)<br/>
+[Coffee For Code](https://github.com/System-Strength/Mobile_CoffeeForCode)<b> • </b>[Learn more](https://www.kauavitorio.com/aviso)<br/>
 [BOT FOR DISCORD](https://github.com/Kauavitorio/Bot-Discord)<b> • </b>Learning to develop basic and advanced functions
 <br/>
 ----
