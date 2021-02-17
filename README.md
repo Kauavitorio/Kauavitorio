@@ -27,4 +27,4 @@ More about me:
 <code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
-[![Twitter Badge](https://visitor-badge.glitch.me/badge?page_id=github/Kauavitorio)](https://github.com/Kauavitorio)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Kauavitorio)](https://github.com/Kauavitorio)
