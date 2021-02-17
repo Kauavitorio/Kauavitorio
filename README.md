@@ -1,4 +1,4 @@
-### Hi, 
+### Hi 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-vitorio-42024b1a3)](https://www.linkedin.com/in/kaua-vitorio-42024b1a3)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ka_vitorio/)](https://www.instagram.com/ka_vitorio/)
@@ -9,7 +9,6 @@ I'm Kauã Vitório, a systems development student at Etec Basilides De Godoy
 
 More about me:
 - :school: I'm a systems development student at Etec Basilides De Godoy (São Paulo Capital)
-- :star: Fun fact: my favorite series are This is Us and Anne with an E
 - 💬  Contact me [here](https://www.kauavitorio.com/contato)
 <br/>
 
@@ -23,10 +22,9 @@ More about me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Kauavitorio)](https://github.com/Kauavitorio)
-<br/>
 <code><img height="30" width="40" src="https://cdn.discordapp.com/attachments/756546249901211749/796468550901956668/android.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
 <code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
-<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Kauavitorio)](https://github.com/Kauavitorio)
