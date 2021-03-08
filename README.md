@@ -17,11 +17,6 @@ More about me:
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
- 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
 <br/>
 <code><img height="30" width="40" src="https://cdn.discordapp.com/attachments/756546249901211749/796468550901956668/android.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png"></code>
