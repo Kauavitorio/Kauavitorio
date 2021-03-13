@@ -12,13 +12,6 @@ More about me:
 - :school: I'm a systems development student at Etec Basilides De Godoy (São Paulo Capital)
 - 💬  Contact me [here](https://www.kauavitorio.com/contato)
 <br/>
-
-<details>
-  <a href="https://github.com/Matan18?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan18&theme=merko" />
-</a>
-  </details>
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
