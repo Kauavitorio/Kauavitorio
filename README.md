@@ -17,7 +17,8 @@ More about me:
   <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
-<details>
+<details> 
+  <summary>:zap: My Programming Languages</summary>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&langs_count=8&theme=dracula"/>
 </details>
 <br/>
