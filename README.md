@@ -20,6 +20,5 @@ More about me:
 <code><img height="30" width="40" src="https://cdn.discordapp.com/attachments/756546249901211749/796468550901956668/android.png"></code>
 <code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"></code>
-<code><img height="30" width="30" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
