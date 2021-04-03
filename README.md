@@ -26,5 +26,6 @@ More about me:
 <code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
-<code><img height="30" width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw34aznjoKqDD0by08Q8kPeK&ust=1617575800632000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiqq82R4-8CFQAAAAAdAAAAABAD"></code>
+<code><img height="30" width="30" src="https://cdn.discordapp.com/attachments/756546249901211749/828035597108903936/1200px-HTML5_logo_and_wordmark.png"></code>
+<code><img height="30" width="30" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
