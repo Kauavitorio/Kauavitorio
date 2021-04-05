@@ -14,7 +14,7 @@ More about me:
 <br/>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=D2D2D2&icon_color=D2D2D2&text_color=D2D2D2&bg_color=282a36">
 </details>
 
 <details> 
