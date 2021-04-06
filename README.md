@@ -19,7 +19,7 @@ More about me:
 
 <details> 
   <summary>:zap: My Programming Languages</summary>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&langs_count=8&theme=dracula"/>
 </details>
 <br/>
 <code><img height="30" width="40" src="https://cdn.discordapp.com/attachments/756546249901211749/796468550901956668/android.png"></code>
