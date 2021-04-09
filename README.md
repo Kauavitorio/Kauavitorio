@@ -16,7 +16,6 @@ More about me:
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Kauavitorio&&show_icons=true&title_color=D2D2D2&icon_color=D2D2D2&text_color=D2D2D2&bg_color=282a36">
 </details>
-
 <details> 
   <summary>:zap: My Programming Languages</summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavitorio&layout=compact&langs_count=8&theme=dracula"/>
@@ -26,6 +25,7 @@ More about me:
 <code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
+<code> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> </code>
 <code><img height="30" width="30" src="https://cdn.discordapp.com/attachments/756546249901211749/828035597108903936/1200px-HTML5_logo_and_wordmark.png"></code>
 <code><img height="30" width="30" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"></code>
 <code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
