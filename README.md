@@ -22,7 +22,7 @@ More about me:
 </details>
 <br/>
 <code><img height="30" width="40" src="https://cdn.discordapp.com/attachments/756546249901211749/796468550901956668/android.png"></code>
-<code><img height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
+<code><img height="30" width="30" src="https://cdn.discordapp.com/attachments/756546249901211749/834831776487571496/c.png"></code>
 <code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"></code>
 <code><img height="30" width="30" src="https://dicasdejava.com.br/images/logo-java.png"></code>
 <code> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> </code>
