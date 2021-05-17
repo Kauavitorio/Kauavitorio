@@ -10,7 +10,7 @@ I'm Kauã Vitório, a systems development student at Etec Basilides De Godoy
 
 More about me:
 - :school: I'm a systems development student at Etec Basilides De Godoy (São Paulo Capital)
-- 💬  Contact me [here](https://www.kauavitorio.com/contato)
+- 💬  Contact me [here](https://www.kauavitorio.com/contact)
 <br/>
 <details>
   <summary>:zap: Github Stats</summary>
@@ -28,4 +28,4 @@ More about me:
 <code> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> </code>
 <code><img height="30" width="30" src="https://cdn.discordapp.com/attachments/756546249901211749/828035597108903936/1200px-HTML5_logo_and_wordmark.png"></code>
 <code><img height="30" width="30" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"></code>
-<code><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code><br/>
+<code><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code><br/>
