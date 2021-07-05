@@ -6,7 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauavitorioof@gmail.com)](mailto:contact@kauavitorio.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kauavitorioofc)](https://twitter.com/kauavitorioofc)
 
-I'm Kauã Vitório, a systems development student at Etec Basilides De Godoy
+I'm Kauã Vitório, a systems development
+which studied system development at Etec Basilides De Godoy
 
 More about me:
 - :school: I'm a systems development student at Etec Basilides De Godoy (São Paulo Capital)
