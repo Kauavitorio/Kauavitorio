@@ -1,17 +1,16 @@
 ### Hi 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-vitorio-42024b1a3)](https://www.linkedin.com/in/kaua-vitorio-42024b1a3)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-vitorio-42024b1a3)](https://www.linkedin.com/in/kauavitorio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ka_vitorio/)](https://www.instagram.com/ka_vitorio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauavitorioof@gmail.com)](mailto:contact@kauavitorio.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kauavitorioofc)](https://twitter.com/kauavitorioofc)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kauavitorioofc)](https://twitter.com/ka_vitorio)
 
-I'm Kauã Vitório, a systems development
-which studied system development at Etec Basilides De Godoy
+I'm Kaua vitorio, I'm a software developer, I've been developing projects since February 2020
 
 More about me:
-- :school: I'm a systems development student at Etec Basilides De Godoy (São Paulo Capital)
-- 💬  Contact me [here](https://www.kauavitorio.com/contact)
+- :school: I have a certificate in Systems Development at Etec Basilides De Godoy (São Paulo/SP)
+- 💬  Contact me [here](https://kauavitorio.com/contact)
 <br/>
 <details>
   <summary>:zap: Github Stats</summary>
