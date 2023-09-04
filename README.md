@@ -10,7 +10,8 @@
 <br/><br/>
 🚀 I'm the founder of Uspery, an initiative dedicated to providing and performing various services in the world of technology. Our primary goal is always to seek the best efficiency and availability in everything we do.
 
-💻 To learn more about me, visit [kauavitorio.com](https://kauavitorio.com). To discover more about Uspery, check out [uspery.com](https://uspery.com).
+💻 To learn more about me, visit [kauavitorio.com](https://kauavitorio.com).
+<br/>💻 To discover more about Uspery, check out [uspery.com](https://uspery.com).
 
 📅 I've been developing projects since February 2020, and I'm continually looking for ways to enhance my technical skills and share knowledge with the developer community.
 <br/>
